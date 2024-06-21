@@ -1,0 +1,14 @@
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/bin/Debug/net8.0/Metodos
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/bin/Debug/net8.0/Metodos.deps.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/bin/Debug/net8.0/Metodos.runtimeconfig.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/bin/Debug/net8.0/Metodos.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/bin/Debug/net8.0/Metodos.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/Metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/Metodos.AssemblyInfoInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/Metodos.AssemblyInfo.cs
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/Metodos.csproj.CoreCompileInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/Metodos.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/refint/Metodos.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/Metodos.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/Metodos.genruntimeconfig.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/ref/Metodos.dll
