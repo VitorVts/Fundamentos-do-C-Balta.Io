@@ -1,0 +1,14 @@
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/bin/Debug/net8.0/Struct
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/bin/Debug/net8.0/Struct.deps.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/bin/Debug/net8.0/Struct.runtimeconfig.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/bin/Debug/net8.0/Struct.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/bin/Debug/net8.0/Struct.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/obj/Debug/net8.0/Struct.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/obj/Debug/net8.0/Struct.AssemblyInfoInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/obj/Debug/net8.0/Struct.AssemblyInfo.cs
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/obj/Debug/net8.0/Struct.csproj.CoreCompileInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/obj/Debug/net8.0/Struct.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/obj/Debug/net8.0/refint/Struct.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/obj/Debug/net8.0/Struct.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/obj/Debug/net8.0/Struct.genruntimeconfig.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Struct/obj/Debug/net8.0/ref/Struct.dll
