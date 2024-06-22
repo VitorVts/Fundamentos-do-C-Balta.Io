@@ -1,0 +1,15 @@
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/bin/Debug/net8.0/Cronometro
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/bin/Debug/net8.0/Cronometro.deps.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/bin/Debug/net8.0/Cronometro.runtimeconfig.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/bin/Debug/net8.0/Cronometro.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/bin/Debug/net8.0/Cronometro.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/obj/Debug/net8.0/Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/obj/Debug/net8.0/Cronometro.AssemblyInfoInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/obj/Debug/net8.0/Cronometro.AssemblyInfo.cs
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/obj/Debug/net8.0/Cronometro.csproj.CoreCompileInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/obj/Debug/net8.0/Cronometro.sourcelink.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/obj/Debug/net8.0/Cronometro.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/obj/Debug/net8.0/refint/Cronometro.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/obj/Debug/net8.0/Cronometro.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/obj/Debug/net8.0/Cronometro.genruntimeconfig.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Cronometro/obj/Debug/net8.0/ref/Cronometro.dll
