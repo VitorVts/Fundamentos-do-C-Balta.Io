@@ -1,0 +1,15 @@
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.AssemblyInfoInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.AssemblyInfo.cs
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.csproj.CoreCompileInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.sourcelink.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.deps.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.runtimeconfig.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/obj/Debug/net8.0/refint/EditorDeTexto.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.genruntimeconfig.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorDeTexto/obj/Debug/net8.0/ref/EditorDeTexto.dll
