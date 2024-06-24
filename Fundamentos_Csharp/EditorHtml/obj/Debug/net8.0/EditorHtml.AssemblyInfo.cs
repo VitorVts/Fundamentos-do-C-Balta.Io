@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Metodos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EditorHtml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37216ee8e6e392824387e915ce2f0922e422a4f1")]
-[assembly: System.Reflection.AssemblyProductAttribute("Metodos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Metodos")]
+[assembly: System.Reflection.AssemblyProductAttribute("EditorHtml")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EditorHtml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -12,3 +12,4 @@
 /home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/Metodos.pdb
 /home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/Metodos.genruntimeconfig.cache
 /home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/ref/Metodos.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Metodos/obj/Debug/net8.0/Metodos.sourcelink.json

@@ -1,0 +1,15 @@
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/bin/Debug/net8.0/EditorHtml
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/bin/Debug/net8.0/EditorHtml.deps.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/bin/Debug/net8.0/EditorHtml.runtimeconfig.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/bin/Debug/net8.0/EditorHtml.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/bin/Debug/net8.0/EditorHtml.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/obj/Debug/net8.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/obj/Debug/net8.0/EditorHtml.AssemblyInfoInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/obj/Debug/net8.0/EditorHtml.AssemblyInfo.cs
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/obj/Debug/net8.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/obj/Debug/net8.0/EditorHtml.sourcelink.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/obj/Debug/net8.0/EditorHtml.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/obj/Debug/net8.0/refint/EditorHtml.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/obj/Debug/net8.0/EditorHtml.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/obj/Debug/net8.0/EditorHtml.genruntimeconfig.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/EditorHtml/obj/Debug/net8.0/ref/EditorHtml.dll
