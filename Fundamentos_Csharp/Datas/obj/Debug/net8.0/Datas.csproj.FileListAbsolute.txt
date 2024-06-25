@@ -1,0 +1,15 @@
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/bin/Debug/net8.0/Datas
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/bin/Debug/net8.0/Datas.deps.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/bin/Debug/net8.0/Datas.runtimeconfig.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/bin/Debug/net8.0/Datas.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/bin/Debug/net8.0/Datas.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/obj/Debug/net8.0/Datas.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/obj/Debug/net8.0/Datas.AssemblyInfoInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/obj/Debug/net8.0/Datas.AssemblyInfo.cs
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/obj/Debug/net8.0/Datas.csproj.CoreCompileInputs.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/obj/Debug/net8.0/Datas.sourcelink.json
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/obj/Debug/net8.0/Datas.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/obj/Debug/net8.0/refint/Datas.dll
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/obj/Debug/net8.0/Datas.pdb
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/obj/Debug/net8.0/Datas.genruntimeconfig.cache
+/home/vts/Documents/Fundamentos-do-CSharp-Balta.Io/Fundamentos_Csharp/Datas/obj/Debug/net8.0/ref/Datas.dll
